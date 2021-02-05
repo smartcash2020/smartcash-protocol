@@ -1,0 +1,1 @@
+# smartcash-protocol
